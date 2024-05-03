@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AdoNetTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62461B3-BB71-450D-AA3A-2B702E00CB10}|AdoNetTask\\AdoNetTask.csproj|c:\\users\\user\\source\\repos\\adonettask\\adonettask\\controllers\\productcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62461B3-BB71-450D-AA3A-2B702E00CB10}|AdoNetTask\\AdoNetTask.csproj|solutionrelative:adonettask\\controllers\\productcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62461B3-BB71-450D-AA3A-2B702E00CB10}|AdoNetTask\\AdoNetTask.csproj|c:\\users\\user\\source\\repos\\adonettask\\adonettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62461B3-BB71-450D-AA3A-2B702E00CB10}|AdoNetTask\\AdoNetTask.csproj|solutionrelative:adonettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71FA64-D01C-440F-AB4A-A567E6CFEF01}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\adonettask\\business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71FA64-D01C-440F-AB4A-A567E6CFEF01}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71FA64-D01C-440F-AB4A-A567E6CFEF01}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\adonettask\\business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71FA64-D01C-440F-AB4A-A567E6CFEF01}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66318098-48C3-414C-B04F-AB28AB71943D}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\adonettask\\core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66318098-48C3-414C-B04F-AB28AB71943D}|Core\\Core.csproj|solutionrelative:core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66318098-48C3-414C-B04F-AB28AB71943D}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\adonettask\\core\\repositoryabstracats\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66318098-48C3-414C-B04F-AB28AB71943D}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracats\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8994B6B4-7740-437C-A704-8DAADCBA4E18}|Data\\Data.csproj|c:\\users\\user\\source\\repos\\adonettask\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8994B6B4-7740-437C-A704-8DAADCBA4E18}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8994B6B4-7740-437C-A704-8DAADCBA4E18}|Data\\Data.csproj|c:\\users\\user\\source\\repos\\adonettask\\data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8994B6B4-7740-437C-A704-8DAADCBA4E18}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\dbac5ee2-9949-4938-906b-fe37ea065fcd_task_AdoNet.zip.fcd\\task_AdoNet\\AdoNet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Core\\RepositoryAbstracats\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracats\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Core\\RepositoryAbstracats\\IProductRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracats\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:15:28.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductControllerr.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AdoNetTask\\AdoNetTask\\Controllers\\ProductControllerr.cs",
+              "RelativeDocumentMoniker": "AdoNetTask\\Controllers\\ProductControllerr.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AdoNetTask\\AdoNetTask\\Controllers\\ProductControllerr.cs",
+              "RelativeToolTip": "AdoNetTask\\Controllers\\ProductControllerr.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:07:21.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:17:39.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Core\\Models\\Product.cs",
+              "RelativeToolTip": "Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:10:31.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:00:38.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:59:06.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AdoNetTask\\AdoNetTask\\Program.cs",
+              "RelativeDocumentMoniker": "AdoNetTask\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AdoNetTask\\AdoNetTask\\Program.cs",
+              "RelativeToolTip": "AdoNetTask\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:01:24.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AdoNetTask\\Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:55:00.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\dbac5ee2-9949-4938-906b-fe37ea065fcd_task_AdoNet.zip.fcd\\task_AdoNet\\AdoNet\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\dbac5ee2-9949-4938-906b-fe37ea065fcd_task_AdoNet.zip.fcd\\task_AdoNet\\AdoNet\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\dbac5ee2-9949-4938-906b-fe37ea065fcd_task_AdoNet.zip.fcd\\task_AdoNet\\AdoNet\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\dbac5ee2-9949-4938-906b-fe37ea065fcd_task_AdoNet.zip.fcd\\task_AdoNet\\AdoNet\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:10:19.43Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
